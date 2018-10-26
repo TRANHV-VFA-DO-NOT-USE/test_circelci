@@ -8,7 +8,7 @@ class MyTest extends TestCase
 {
     public function testSameNumber()
     {
-        $this->assertEquals(1, 0);
+        $this->assertEquals(1, 1);
     }
 
     public function testSameString()
